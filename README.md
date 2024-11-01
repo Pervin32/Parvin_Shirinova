@@ -1,5 +1,8 @@
+<h1 align="center">Hi there! 👋 </h1>
+<h2 align="center">Mein name is Parvin. I'm from Azerbaijan.</h2>
+
 # 💫 About Me:
-Hi there! 👋 I'm a Junior Front-End Developer
+👋 I'm a Junior Front-End Developer
 
 ## 🚀 I'm currently working on
 - Personal portfolio website
